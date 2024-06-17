@@ -177,6 +177,7 @@ a.navbar-brand {
 img.flag-img {
     width: 120px;
     margin: 5px 0px;
+    transition: width 0.3s ease-in-out, margin 0.3s ease-in-out;
 }
 
 img.flag-img:hover {
